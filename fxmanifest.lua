@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-description 'SKRP-loading'
+description 'JS-Loading'
 version '1.1'
 author 'JonarSonar'
 
