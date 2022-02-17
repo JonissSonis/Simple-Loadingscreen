@@ -1,6 +1,6 @@
 # JS-Loading
 
-Enkel laddningsskärm efterliknar den på NP 3.0.
+Enkel laddningsskärm efterliknar den på FBRP.
 <br>
 Körs på ~ 0.00 ms.
 <br>
