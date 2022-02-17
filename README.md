@@ -27,3 +27,5 @@ Körs på ~ 0.00 ms.
 
 ### 1.0
 * Första släppet
+
+* **GJORD TILL SKRP**
