@@ -22,6 +22,7 @@ body {
     left: 50%;
     top: 70%;
 }
+
 .dot-falling {
     position: relative;
     left: -9999px;
