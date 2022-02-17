@@ -7,7 +7,7 @@ Körs på ~ 0.00 ms.
 
 # Installation
 
-* **VIKTIGT: Den är inte gjord för att bli ändrad.**
+* **VIKTIGT: Ändra inget om du inte vet hur du gör.**
 
 # Funktioner
 * Den laddar
