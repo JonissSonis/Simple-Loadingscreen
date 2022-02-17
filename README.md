@@ -9,7 +9,7 @@ Körs på ~ 0.00 ms.
 
 * **VIKTIGT: Den är inte gjord för att bli ändrad.**
 
-# FUNKTIONER
+# Funktioner
 * Den laddar
 * Bytbar logga 
 * Bytbar bakgrundsfärg
@@ -17,7 +17,7 @@ Körs på ~ 0.00 ms.
 
 * CSS Färg Generator: https://cssgradient.io/
 
-# ÄNDRINGAR
+# Ändringar
 
 ### 1.1
 * Gjort om fxmanifest
