@@ -1,4 +1,4 @@
-# JS-Loading
+# KS-Loading
 
 Enkel laddningsskärm efterliknar den på FBRP.
 <br>
@@ -7,25 +7,28 @@ Körs på ~ 0.00 ms.
 
 # Installation
 
-* **VIKTIGT: Ändra inget om du inte vet hur du gör.**
+* **VIKTIGT: Ändra inget om du inte vet vad du gör.**
 
 # Funktioner
 * Den laddar
 * Bytbar logga 
-* Bytbar bakgrundsfärg
+* Anpassningsbar bakgrundsfärg
 * Anpassningsbar musik
 
 * CSS Färg Generator: https://cssgradient.io/
 
 # Ändringar
 
+### 1.2
+* Gjort en release
+* Ersatte musiken
+* Städat upp ännu mer
+
 ### 1.1
-* Gjort om fxmanifest
+* Städat lite i fxmanifest
 * Städat upp oanvänd kod
-* La till laddnings punkterna
-* La till musik inställningar
+* Lade till laddnings punkterna
+* Lade till musik inställningar
 
 ### 1.0
 * Första släppet
-
-**GJORD TILL ____**
