@@ -20,7 +20,6 @@ Körs på ~ 0.00 ms.
 # Ändringar
 
 ### 1.2
-* Gjort en release
 * Ersatte musiken
 * Städat upp ännu mer
 
