@@ -31,3 +31,5 @@ Körs på ~ 0.00 ms.
 
 ### 1.0
 * Första släppet
+
+Omgjord från https://github.com/loljoshie/lj-loading
