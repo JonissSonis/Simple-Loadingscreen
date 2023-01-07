@@ -1,35 +1,15 @@
-# KS-Loading
+# Simple-Loadingscreen
 
-Enkel laddningsskärm efterliknar den på FBRP.
+Loadingscreen styled like FBRP.
 <br>
-Körs på ~ 0.00 ms.
+Runs at ~ 0.00 ms.
 <br>
 
-# Installation
+* **IMPORTANT: Do not change anything unless you know what you are doing.**
 
-* **VIKTIGT: Ändra inget om du inte vet vad du gör.**
+# Key Features
+* Changeable logo
+* Changeable background color
+* Configurable separate audio
 
-# Funktioner
-* Den laddar
-* Bytbar logga 
-* Anpassningsbar bakgrundsfärg
-* Anpassningsbar musik
-
-* CSS Färg Generator: https://cssgradient.io/
-
-# Ändringar
-
-### 1.2
-* Ersatte musiken
-* Städat upp ännu mer
-
-### 1.1
-* Städat lite i fxmanifest
-* Städat upp oanvänd kod
-* Lade till laddnings punkterna
-* Lade till musik inställningar
-
-### 1.0
-* Första släppet
-
-Omgjord från https://github.com/loljoshie/lj-loading
+* CSS Color Gradient Overlay Generator: https://cssgradient.io/
